@@ -4,7 +4,7 @@
 > Enjoy beautiful Alerts inspired by  SweetAlert using  __PHPAlert__
 
 ***
-
+![PHP Alert in Action](https://raw.githubusercontent.com/blessedjasonmwanza/phpalert/master/welcome%20to%20sweet%20alert.PNG)
  - [ ] **How to use PHP Alert.**
 	
  - Download and Include *PHPAlert* into your app
